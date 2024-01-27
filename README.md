@@ -1,3 +1,3 @@
-# odin-recepes
+# odin-recipes
 
 To be written
